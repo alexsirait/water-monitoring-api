@@ -1,0 +1,111 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.border-left-secondary {
+    border-left: 0.25rem solid #B5B6B4;
+}
+
+/* .border-left-caution {
+    border-left: 0.25rem solid #E1A93D;
+} */
+
+.openreopenticketlist {
+    background-color: #3797D7;
+   
+}
+.openreopenticketlist:hover{
+    background-color: #3797D7 !important;
+}
+
+.maintenanceinprogress {
+    background-color: #D74D58 !important;
+}
+
+.maintenancecomplete {
+    background-color: #FFB100 !important;
+}
+
+.verification {
+    background-color: #1DB74E !important;
+}
+
+.closed {
+    background-color: #b2b6b9 !important;
+}
+
+#todaylist li {
+    border-left: 0.40rem solid #D74D58;
+}
+
+.border-left-default {
+    border-left: 0.40rem solid #008EF4;
+}
+
+.border-left-succeed {
+    border-left: 0.40rem solid #20CDA3;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.tms {
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.coloum-title {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    font-weight:500;
+    font-size: 18px;
+}
+
+.cardlabel {
+    font-size: 15px;
+    color: #535353;
+    margin-bottom: 0;
+}
+
+.card-custom {
+    width: 300px;
+  }
+
+.cardtitle {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+
+.running-time {
+    font-weight: 30;
+    font-size: 20px;
+}
+
+
+.detailById:hover {
+    box-shadow: 0 10px 20px rgb(0, 140, 255); /* Menambah bayangan saat dihover */
+    border: 1px solid rgb(57, 166, 255); /* Menambah border saat dihover */
+}
+
+.detailById2:hover {
+    box-shadow: 0 10px 20px rgb(155, 0, 0); /* Menambah bayangan saat dihover */
+    border: 1px solid rgb(184, 34, 34); /* Menambah border saat dihover */
+}
+
+.detailById3:hover {
+    box-shadow: 0 10px 20px rgb(255, 188, 2); /* Menambah bayangan saat dihover */
+    border: 1px solid rgb(255, 196, 0); /* Menambah border saat dihover */
+}
+
+.detailById4:hover {
+    box-shadow: 0 10px 20px rgb(1, 175, 30); /* Menambah bayangan saat dihover */
+    border: 1px solid rgb(0, 190, 41); /* Menambah border saat dihover */
+}
+
+.detailById5:hover {
+    box-shadow: 0 10px 20px rgb(114, 114, 114); /* Menambah bayangan saat dihover */
+    border: 1px solid rgb(114, 114, 114); /* Menambah border saat dihover */
+}
